@@ -1,9 +1,11 @@
 import React from 'react';
+import '../styles/default.scss';
+import Welcome from './components/Welcome/Welcome';
 
 function App() {
     return (
         <div className="App">
-            <h1>Deno Nicaragua</h1>
+            <Welcome />
         </div>
     );
 }

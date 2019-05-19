@@ -1,0 +1,26 @@
+@media (min-width: 220px) {
+    .welcome {
+        width: 100%;
+        min-height: 100vh;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        background: linear-gradient(to right, rgb(20, 169, 206) 25%, rgb(0, 121, 202));
+        clip-path: polygon(0 0, 100% 0%, 100% 89%, 0 100%);
+        position: relative;
+        overflow: hidden;
+
+        &__title {
+            color: #ffffff;
+            width: 100%;
+      
+            font-weight: 300;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 1.1em;
+            text-align: center;
+        }
+    }
+}
