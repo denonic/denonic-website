@@ -1,4 +1,7 @@
 {
+  "author":{
+    "name" : "Lauren Steven Montenegro"
+  },
   "name": "denonic-website",
   "version": "0.1.0",
   "private": true,
