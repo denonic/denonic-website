@@ -1,2 +1,4 @@
 # denonic-website
-Website for deno Nicaragua
+Website for Deno Nicaragua
+
+Pull Requests are welcome!
