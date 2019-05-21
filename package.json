@@ -1,9 +1,9 @@
 {
+  "homepage": "https://denonic.github.io/denonic-website/",
   "author": {
     "name": "Lauren Steven Montenegro"
   },
   "name": "denonic-website",
-  "homepage": "https://denonic.github.io/denonic-website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
