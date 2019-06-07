@@ -5,14 +5,14 @@ import Logo from '../Logo/Logo';
 function Welcome() {
   return (
     <div className="welcome">
-      <Logo />
+      <div className="logo-container">
+        <Logo />
+      </div>
       <div>
         <h1 className="welcome__title">Deno Nicaragua</h1>
         <span className="welcome__description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco
-            laboris nisi ut aliquid ex ea commodi consequat.
+            Eventos, Noticias y Artículos sobre Deno, el nuevo runtime para JavaScript y TypeScript
+            escrito con Rust y V8.
         </span>
       </div>
     </div>
